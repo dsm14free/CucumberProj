@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="23.888" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Feature to test User signs up to starbucks website" name="User signs up to starbucks website with valid details - Example #1.1" time="23.831">
+<system-out><![CDATA[
+Given User logins in to the starbucks website...............................passed
+When User provides firstName001 lastName001 dsm15free@gmail.com and Startbuckspass@123.passed
+And Clicks on signup button.................................................passed
+Then User should be signed up successfully..................................passed
+]]></system-out>
+</testcase>
+</testsuite>
